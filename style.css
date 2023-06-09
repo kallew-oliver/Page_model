@@ -64,7 +64,7 @@ li > a#modelo{
 /*Primeira sessao*/
 
 .bg{
-    background-image: url(./imagem/teste02.png);
+    background-image: url(imagem/teste02.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -137,7 +137,7 @@ li > a#modelo{
     height: 500px; 
     margin: auto;
     margin-top: 130px;
-    background-image: url(.//imagem/background-programmer.png);
+    background-image: url(imagem/background-programmer.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
